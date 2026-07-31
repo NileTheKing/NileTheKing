@@ -18,4 +18,4 @@
 
 ## Links
 
-- [Blog]([https://velog.io/@niletheking/posts](https://velog.io/@niletheking/techdeepdive))
+- [Blog](https://velog.io/@niletheking/techdeepdive))
