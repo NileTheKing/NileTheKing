@@ -1,13 +1,13 @@
 ## 대표 프로젝트
 
-### 01. [Axon — 이벤트 기반 캠페인·트래픽 처리 플랫폼](https://github.com/NileTheKing/marketing-intelligence-platform)
+### 01. [이벤트 기반 커머스 플랫폼](https://github.com/NileTheKing/marketing-intelligence-platform)
 
-선착순 유입 트래픽과 행동 로그를 처리·분석하는 이벤트 기반 백엔드 플랫폼입니다.
+선착순 유입 트래픽과 행동 로그를 처리, 분석하는 이벤트 기반 백엔드 플랫폼입니다.
 
 **요약**
 
 - Redis 원자 처리로 선착순 유입 제어
-- Kafka 기반 비동기 처리와 데이터 정합성 관리
+- 선착순 구매 이후 비동기 Kafka이벤트기반으로 데이터 저장
 - 행동 로그 수집·분석과 운영 대시보드 구현
 
 `Java 21` · `Spring Boot` · `Kafka` · `Redis` · `MySQL` · `Elasticsearch` · `Kubernetes` · `Docker`
