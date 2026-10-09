@@ -1,8 +1,8 @@
 ## 대표 프로젝트
 
-### 01. [이벤트 기반 커머스 플랫폼](https://github.com/NileTheKing/marketing-intelligence-platform)
+### 01. [구매 트래픽처리와 데이터 수집활용](https://github.com/NileTheKing/marketing-intelligence-platform)
 
-선착순 유입 트래픽과 행동 로그를 처리, 분석하는 이벤트 기반 백엔드 플랫폼입니다.
+선착순 구매 트래픽을 처리하고 행동 로그를 수집하여 쿠폰, 알림 발송 등 마케팅에 활용하는 프로젝트입니다.
 
 **요약**
 
