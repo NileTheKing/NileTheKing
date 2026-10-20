@@ -6,9 +6,9 @@
 
 **요약**
 
-- Redis 원자 처리로 선착순 유입 제어
-- 선착순 구매 이후 비동기 Kafka이벤트기반으로 데이터 저장
-- 행동 로그 수집하여 마케팅 활용, 마케팅 운영 분석 구현
+- 선착순 구매 동시성, 원자성, 처리량 문제를 Redis로 해결
+- 결제 후처리 트랜잭션을 담당하는 Kafka Consuner 개발
+- 행동 로그 수집하여 쿠폰발송 등 마케팅에 활용 및 마케팅 운영 구현
 
 `Java 21` · `Spring Boot` · `Kafka` · `Redis` · `MySQL` · `Elasticsearch` · `Kubernetes` · `Docker`
 
