@@ -8,7 +8,7 @@
 
 - Redis 원자 처리로 선착순 유입 제어
 - 선착순 구매 이후 비동기 Kafka이벤트기반으로 데이터 저장
-- 행동 로그 수집·분석과 운영 대시보드 구현
+- 행동 로그 수집하여 마케팅 활용, 마케팅 운영 분석 구현
 
 `Java 21` · `Spring Boot` · `Kafka` · `Redis` · `MySQL` · `Elasticsearch` · `Kubernetes` · `Docker`
 
@@ -23,7 +23,7 @@
 **요약**
 
 - OPIc 출제 규칙과 채점 기준을 서비스 도메인으로 모델링
-- 파일 처리·외부 API 경로의 병목 분석과 성능 개선
+- 음성파일 처리 경로와 외부 API I/O 블로킹 문제 해결
 - Oracle Cloud 환경에 배포한 음성 기반 웹 서비스
 
 `Java 21` · `Spring Boot` · `Virtual Threads` · `MySQL` · `Groq STT/LLM` · `Docker` · `Oracle Cloud`
@@ -37,8 +37,8 @@
 | 영역 | 기술 |
 | --- | --- |
 | Backend | Java, Spring Boot, Spring AI, JPA |
-| Data & Messaging | Kafka, Redis, MySQL, Elasticsearch |
-| Infrastructure | AWS, OCI, KT Cloud, Docker, Kubernetes, Nginx |
+| Data & Messaging | Kafka, Redis, MySQL|
+| Infrastructure | AWS, OCI, Docker, Nginx |
 | Observability | Prometheus, Grafana, OpenTelemetry, Jaeger |
 
 ## Links
