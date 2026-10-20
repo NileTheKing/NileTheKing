@@ -1,6 +1,6 @@
 ## 대표 프로젝트
 
-### 01. [구매 트래픽처리와 데이터 수집활용](https://github.com/NileTheKing/marketing-intelligence-platform)
+### 01. [선착순 판매와 행동 데이터 마케팅 플랫폼](https://github.com/NileTheKing/marketing-intelligence-platform)
 
 선착순 구매 트래픽을 처리하고 행동 로그를 수집하여 쿠폰, 알림 발송 등 마케팅에 활용하는 프로젝트입니다.
 
