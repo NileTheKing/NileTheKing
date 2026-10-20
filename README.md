@@ -10,7 +10,7 @@
 - 결제 후처리 트랜잭션을 담당하는 Kafka Consuner 개발
 - 행동 로그 수집하여 쿠폰발송 등 마케팅에 활용 및 마케팅 운영 구현
 
-`Java 21` · `Spring Boot` · `Kafka` · `Redis` · `MySQL` · `Elasticsearch` · `Kubernetes` · `Docker`
+`Java 21 Virtual Thread` · `Spring Boot` · `Kafka` · `Redis` · `MySQL` · `Docker`
 
 [Repository 보기 →](https://github.com/NileTheKing/marketing-intelligence-platform)
 
@@ -23,10 +23,10 @@
 **요약**
 
 - OPIc 출제 규칙과 채점 기준을 서비스 도메인으로 모델링
-- 음성파일 처리 경로와 외부 API I/O 블로킹 문제 해결
+- S3와 비동기처리를통해 파일 처리 경로와 외부 API I/O 블로킹 문제 해결
 - Oracle Cloud 환경에 배포한 음성 기반 웹 서비스
 
-`Java 21` · `Spring Boot` · `Virtual Threads` · `MySQL` · `Groq STT/LLM` · `Docker` · `Oracle Cloud`
+`Java 21` · `Spring Boot` · `Virtual Threads` · `MySQL` · `Groq STT API / Gemini LLM API` · `Docker` · `Oracle Cloud`
 
 [Repository 보기 →](https://github.com/NileTheKing/opicnic) &nbsp;·&nbsp; [Live Demo →](https://opicnic.xyz)
 
