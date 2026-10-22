@@ -1,5 +1,5 @@
 ## Links
-- Portfolio([양나일_포트폴리오_GITHUB.pdf](https://github.com/user-attachments/files/33800851/_._GITHUB.pdf)
+- [Portfolio](https://github.com/user-attachments/files/33800851/_._GITHUB.pdf)
 )
 - [Blog](https://velog.io/@niletheking/techdeepdive)
 ## 대표 프로젝트
