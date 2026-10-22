@@ -1,3 +1,7 @@
+## Links
+- Portfolio([양나일_포트폴리오_GITHUB.pdf](https://github.com/user-attachments/files/33800851/_._GITHUB.pdf)
+)
+- [Blog](https://velog.io/@niletheking/techdeepdive)
 ## 대표 프로젝트
 
 ### 01. [선착순 판매와 행동 데이터 마케팅 플랫폼](https://github.com/NileTheKing/marketing-intelligence-platform)
@@ -40,7 +44,3 @@
 | Data & Messaging | Kafka, Redis, MySQL|
 | Infrastructure | AWS, OCI, Docker, Nginx |
 | Observability | Prometheus, Grafana, OpenTelemetry, Jaeger |
-
-## Links
-
-- [Blog](https://velog.io/@niletheking/techdeepdive)
