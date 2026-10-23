@@ -1,5 +1,5 @@
 ## Links
-- [Portfolio](포트폴리오.pdf)
+- [Portfolio](./포트폴리오.pdf)
 - [Blog](https://velog.io/@niletheking/techdeepdive)
 ## 대표 프로젝트
 
