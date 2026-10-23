@@ -1,6 +1,5 @@
-
 ## Links
-- [Portfolio.pdf](https://github.com/user-attachments/files/33855772/portfolio.pdf)
+- [Portfolio PDF](https://github.com/user-attachments/files/33868245/portfolio.pdf)
 - [Blog](https://velog.io/@niletheking/techdeepdive)
 ## 대표 프로젝트
 
@@ -11,10 +10,10 @@
 **요약**
 
 - 선착순 구매 동시성, 원자성, 처리량 문제를 Redis로 해결
-- 결제 후처리 트랜잭션을 담당하는 Kafka Consuner 개발
+- 결제 후처리 메시지를 비동기적으로 빠르고 안정적으로 처리하는 Kafka Consuner 개발
 - 행동 로그 수집하여 쿠폰발송 등 마케팅에 활용 및 마케팅 운영 구현
 
-`Java 21 Virtual Thread` · `Spring Boot` · `Kafka` · `Redis` · `MySQL` · `Docker`
+`Java 21 Virtual Thread` · `Spring Boot` · `Kafka` · `Redis` · `Spring Data JPA` · `JDBC` · `MySQL` · `Docker`
 
 [Repository 보기 →](https://github.com/NileTheKing/marketing-intelligence-platform)
 
@@ -26,7 +25,7 @@
 
 **요약**
 
-- OPIc 출제 규칙과 채점 기준을 서비스 도메인으로 모델링
+- OPIc 시험 준비를 위한 AI피드백 서비스
 - S3와 비동기처리를통해 파일 처리 경로와 외부 API I/O 블로킹 문제 해결
 - Oracle Cloud 환경에 배포한 음성 기반 웹 서비스
 
